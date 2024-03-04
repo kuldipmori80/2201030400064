@@ -1,0 +1,119 @@
+.span5 {
+  white-space: pre-wrap;
+}
+.project9 {
+  color: var(--color-gold-100);
+}
+.project9,
+.services9 {
+  white-space: pre-wrap;
+}
+.project-services-feedback-container7 {
+  position: absolute;
+  top: 62px;
+  left: 311px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 1033px;
+  height: 43px;
+}
+.search-icon8,
+.user-menu-male14 {
+  position: absolute;
+  top: 44px;
+  left: 1309px;
+  width: 69px;
+  height: 69px;
+  object-fit: cover;
+}
+.user-menu-male14 {
+  top: 39px;
+  left: 291px;
+  width: 80px;
+  height: 80px;
+}
+.furniture-child {
+  position: absolute;
+  top: 102.5px;
+  left: 547.5px;
+  border-top: 5px solid var(--white);
+  box-sizing: border-box;
+  width: 129px;
+  height: 5px;
+}
+.furniture1 {
+  position: absolute;
+  top: 271px;
+  left: 80px;
+  font-size: var(--font-size-21xl);
+  text-transform: capitalize;
+}
+.user-menu-male15 {
+  position: absolute;
+  top: 38px;
+  left: -1381px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.home9,
+.left-arrow-icon6 {
+  position: absolute;
+  cursor: pointer;
+}
+.left-arrow-icon6 {
+  top: 175px;
+  left: 14px;
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+}
+.home9 {
+  top: 62px;
+  left: 417px;
+  text-transform: capitalize;
+}
+.home-decor2-4x-removebg-previe-icon10 {
+  position: absolute;
+  top: -23px;
+  left: -26px;
+  width: 337px;
+  height: 246px;
+  object-fit: cover;
+}
+.find-your-best8 {
+  position: absolute;
+  top: 152px;
+  left: 463px;
+  font-size: var(--font-size-21xl);
+  text-transform: capitalize;
+  font-family: var(--font-redressed);
+  color: var(--color-gold-200);
+}
+.best-wooden-furniture-design-i-icon {
+  position: absolute;
+  top: 351px;
+  left: 586px;
+  border-radius: var(--br-33xl);
+  width: 854px;
+  height: 673px;
+  object-fit: cover;
+}
+.popular-furniture-design {
+  position: absolute;
+  top: 578px;
+  left: 62px;
+  text-transform: capitalize;
+}
+.furniture {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-dimgray-300);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--white);
+  font-family: var(--font-roboto);
+}

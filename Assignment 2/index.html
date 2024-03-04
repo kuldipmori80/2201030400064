@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inria Serif:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,700;0,800;1,300&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Font Awesome 5 Free:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;900&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Port Lligat Sans:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@200;300;500;600;700;900&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Redressed:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Paytone One:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Rambla:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Ruda:wght@700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="login-page">
+      <img class="bg-d-4" alt="" src="./public/bg-d-4@2x.png" />
+
+      <div class="login-wrapper">
+        <h3 class="login">Login</h3>
+      </div>
+      <div class="frame-parent">
+        <button class="rectangle-parent">
+          <div class="frame-child"></div>
+          <div class="enter-a-usernameemail">Enter a username/Email</div>
+        </button>
+        <div class="forget-pass-frame-parent">
+          <input
+            class="forget-pass-frame"
+            placeholder="Enter a Password"
+            type="text"
+          />
+
+          <div class="login-button-frame">
+            <div class="forget-a-password">Forget a Password?</div>
+          </div>
+          <div class="frame-wrapper">
+            <button class="vector-parent">
+              <img
+                class="frame-item"
+                alt=""
+                src="./public/ellipse-1.svg"
+                id="ellipse"
+              />
+
+              <div class="login1">Login</div>
+            </button>
+          </div>
+        </div>
+        <div class="frame-container">
+          <div class="link-frame-parent">
+            <div class="link-frame">
+              <div class="dont-have-an">Don’t have an account?</div>
+            </div>
+            <div class="sign-up" id="signUpText">Sign Up</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var ellipse = document.getElementById("ellipse");
+      if (ellipse) {
+        ellipse.addEventListener("click", function (e) {
+          window.location.href = "./homepage.html";
+        });
+      }
+      
+      var signUpText = document.getElementById("signUpText");
+      if (signUpText) {
+        signUpText.addEventListener("click", function (e) {
+          window.location.href = "./sign-up-page.html";
+        });
+      }
+      </script>
+  </body>
+</html>

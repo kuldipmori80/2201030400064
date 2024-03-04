@@ -1,0 +1,215 @@
+.regitraction-child {
+  position: absolute;
+  top: 43px;
+  left: 566px;
+  border-radius: 197px;
+  background-color: #fffdfd;
+  width: 287px;
+  height: 74px;
+}
+.register1 {
+  position: absolute;
+  top: 50.4px;
+  left: 619px;
+  font-size: var(--font-size-29xl);
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 233.6px;
+  height: 69px;
+  text-shadow: 1px 0 0 rgba(0, 0, 0, 0.91), 0 1px 0 rgba(0, 0, 0, 0.91),
+    -1px 0 0 rgba(0, 0, 0, 0.91), 0-1px 0 rgba(0, 0, 0, 0.91);
+  transform: rotate(-0.6deg);
+  transform-origin: 0 0;
+}
+.regitraction-item {
+  position: absolute;
+  top: 520.5px;
+  left: 505px;
+  border-radius: var(--br-5xs);
+  width: 454px;
+  height: 91.5px;
+}
+.rectangle-icon,
+.regitraction-child1,
+.regitraction-inner {
+  position: absolute;
+  top: 228px;
+  left: 512px;
+  border-radius: var(--br-5xs);
+  width: 411px;
+  height: 52px;
+}
+.rectangle-icon,
+.regitraction-child1 {
+  top: 453px;
+}
+.regitraction-child1 {
+  top: 343px;
+}
+.full-name,
+.password {
+  position: absolute;
+  top: 193px;
+  left: 512px;
+  font-weight: 500;
+  display: inline-block;
+  width: 122px;
+  height: 35px;
+}
+.password {
+  top: 0;
+  left: 0;
+  width: 112px;
+  height: 34px;
+}
+.password-wrapper,
+.phone-number {
+  position: absolute;
+  top: 528px;
+  left: 512px;
+  width: 112px;
+  height: 34px;
+}
+.phone-number {
+  top: 311px;
+  font-weight: 500;
+  display: inline-block;
+  width: 170px;
+  height: 43px;
+}
+.regitraction-child2,
+.regitraction-child3 {
+  position: absolute;
+  top: 675px;
+  left: 512px;
+  border-radius: var(--br-5xs);
+  width: 411px;
+  height: 52px;
+}
+.regitraction-child3 {
+  top: 563px;
+}
+.confirm-password,
+.email {
+  position: absolute;
+  top: 420px;
+  left: 512px;
+  font-weight: 500;
+  display: inline-block;
+  width: 103px;
+  height: 28px;
+}
+.confirm-password {
+  top: 639px;
+  width: 211px;
+  height: 36px;
+}
+.confirm-your-password,
+.enter-email,
+.enter-full-name,
+.enter-password1,
+.enter-phone-number {
+  position: absolute;
+  top: 240px;
+  left: 519px;
+  font-weight: 500;
+  color: var(--color-darkgray-100);
+  display: inline-block;
+  width: 198px;
+  height: 28px;
+}
+.confirm-your-password,
+.enter-email,
+.enter-password1,
+.enter-phone-number {
+  top: 354px;
+  width: 246px;
+  height: 31px;
+}
+.confirm-your-password,
+.enter-email,
+.enter-password1 {
+  top: 465px;
+  width: 151px;
+  height: 23px;
+}
+.confirm-your-password,
+.enter-password1 {
+  top: 575px;
+  width: 174px;
+  height: 28px;
+}
+.confirm-your-password {
+  top: 688px;
+  width: 291px;
+  height: 31px;
+}
+.regitraction-child4 {
+  position: absolute;
+  top: 773px;
+  left: 505px;
+  border-radius: var(--br-5xs);
+  width: 418px;
+  height: 52px;
+}
+.register2 {
+  position: absolute;
+  top: 780px;
+  left: 628px;
+  font-size: var(--font-size-17xl);
+  text-transform: capitalize;
+  display: inline-block;
+  color: var(--color-black);
+  text-align: center;
+  width: 148px;
+  height: 38px;
+}
+.log-in1 {
+  color: #0ba5e7;
+}
+.already-have-an-container {
+  position: absolute;
+  top: 832px;
+  left: 508px;
+  text-transform: capitalize;
+  display: inline-block;
+  text-align: center;
+  width: 412px;
+  height: 36px;
+  cursor: pointer;
+}
+.urgent-care-1-1 {
+  position: absolute;
+  top: -210px;
+  left: 342px;
+  width: 852px;
+  height: 852px;
+}
+.de-2-icon,
+.home-decor2-4x-removebg-previe-icon5 {
+  position: absolute;
+  top: -6px;
+  left: 0;
+  width: 337px;
+  height: 246px;
+  object-fit: cover;
+}
+.de-2-icon {
+  top: 240px;
+  left: -30px;
+  width: 397px;
+  height: 628px;
+}
+.regitraction {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-sienna);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--white);
+  font-family: var(--font-roboto);
+}

@@ -1,0 +1,128 @@
+.span3 {
+  white-space: pre-wrap;
+}
+.project7 {
+  color: var(--color-gold-100);
+}
+.services7 {
+  white-space: pre-wrap;
+}
+.project-services-feedback-container5 {
+  position: absolute;
+  top: 62px;
+  left: 311px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 1033px;
+  height: 43px;
+}
+.search-icon6,
+.user-menu-male10 {
+  position: absolute;
+  top: 44px;
+  left: 1309px;
+  width: 69px;
+  height: 69px;
+  object-fit: cover;
+}
+.user-menu-male10 {
+  top: 39px;
+  left: 291px;
+  width: 80px;
+  height: 80px;
+}
+.plan-child {
+  position: absolute;
+  top: 102.5px;
+  left: 547.5px;
+  border-top: 5px solid var(--white);
+  box-sizing: border-box;
+  width: 129px;
+  height: 5px;
+}
+.plan-elevation {
+  position: absolute;
+  top: 260px;
+  left: 76px;
+  font-size: var(--font-size-21xl);
+  text-transform: capitalize;
+}
+.user-menu-male11 {
+  position: absolute;
+  top: 38px;
+  left: -1381px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.home7,
+.left-arrow-icon4 {
+  position: absolute;
+  cursor: pointer;
+}
+.left-arrow-icon4 {
+  top: 175px;
+  left: 14px;
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+}
+.home7 {
+  top: 62px;
+  left: 417px;
+  text-transform: capitalize;
+}
+.example4-1-icon,
+.home-decor2-4x-removebg-previe-icon8 {
+  position: absolute;
+  top: -23px;
+  left: -26px;
+  width: 337px;
+  height: 246px;
+  object-fit: cover;
+}
+.example4-1-icon {
+  top: 332px;
+  left: 397px;
+  border-radius: var(--br-33xl);
+  width: 1023px;
+  height: 692px;
+}
+.ground-floor {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.first-floor-elevation,
+.p {
+  margin: 0;
+}
+.find-your-best7,
+.ground-floor-container {
+  position: absolute;
+  text-transform: capitalize;
+}
+.ground-floor-container {
+  top: 704.9px;
+  left: 17px;
+  transform: rotate(-37.22deg);
+  transform-origin: 0 0;
+}
+.find-your-best7 {
+  top: 152px;
+  left: 550px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-redressed);
+  color: var(--color-gold-200);
+}
+.plan {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-dimgray-300);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--white);
+  font-family: var(--font-roboto);
+}

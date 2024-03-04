@@ -1,0 +1,214 @@
+.span2 {
+  white-space: pre-wrap;
+}
+.project6 {
+  color: var(--color-gold-200);
+}
+.services6 {
+  white-space: pre-wrap;
+}
+.project-services-feedback-container4 {
+  position: absolute;
+  top: 59px;
+  left: 291px;
+  font-size: var(--font-size-13xl);
+  text-transform: capitalize;
+  display: inline-block;
+  font-family: var(--font-roboto);
+  width: 1033px;
+  height: 43px;
+  color: var(--white);
+}
+.design-child {
+  position: absolute;
+  top: 99.5px;
+  left: 525.5px;
+  border-top: 5px solid var(--white);
+  box-sizing: border-box;
+  width: 129px;
+  height: 5px;
+}
+.search-icon5 {
+  position: absolute;
+  top: 46px;
+  left: 1289px;
+  width: 69px;
+  height: 69px;
+  object-fit: cover;
+}
+.projects {
+  position: absolute;
+  top: 246px;
+  left: 82px;
+  font-size: var(--font-size-21xl);
+  text-transform: capitalize;
+  font-family: var(--font-roboto);
+  color: var(--white);
+}
+.design-inner,
+.design-item {
+  position: absolute;
+  top: 345px;
+  left: 333px;
+  border-radius: var(--br-xl);
+  background-color: var(--white);
+  width: 991px;
+  height: 134px;
+}
+.design-inner {
+  top: 375px;
+  left: 822px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-lightskyblue);
+  width: 470px;
+  height: 74px;
+  cursor: pointer;
+}
+.project-for-plan {
+  position: absolute;
+  top: 381px;
+  left: 861px;
+  text-transform: capitalize;
+}
+.design-child1,
+.design-child2,
+.design-child3 {
+  position: absolute;
+  top: 545px;
+  left: 333px;
+  border-radius: var(--br-xl);
+  background-color: var(--white);
+  width: 991px;
+  height: 134px;
+}
+.design-child2,
+.design-child3 {
+  top: 744px;
+}
+.design-child3 {
+  top: 575px;
+  left: 822px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-lightskyblue);
+  width: 470px;
+  height: 74px;
+}
+.project-for-const {
+  position: absolute;
+  top: 585px;
+  left: 861px;
+  text-transform: capitalize;
+  cursor: pointer;
+}
+.design-child4 {
+  position: absolute;
+  top: 774px;
+  left: 822px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-lightskyblue);
+  width: 470px;
+  height: 74px;
+}
+.project-carpenter,
+.text {
+  position: absolute;
+  top: 582px;
+  left: 1057px;
+  text-transform: capitalize;
+}
+.project-carpenter {
+  top: 781px;
+  left: 862px;
+  cursor: pointer;
+}
+.construction,
+.furniiture {
+  position: absolute;
+  top: 583px;
+  left: 392px;
+  text-transform: capitalize;
+  font-family: var(--font-ruda);
+}
+.furniiture {
+  top: 782px;
+  left: 365px;
+  display: inline-block;
+  width: 281px;
+  height: 57px;
+}
+.user-menu-male9 {
+  position: absolute;
+  top: 36px;
+  left: 259px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.home6 {
+  position: absolute;
+  top: 59px;
+  left: 392px;
+  font-size: var(--font-size-13xl);
+  text-transform: capitalize;
+  font-family: var(--font-roboto);
+  color: var(--white);
+  cursor: pointer;
+}
+.home-decor2-4x-removebg-previe-icon7 {
+  position: absolute;
+  top: -21px;
+  left: -22px;
+  width: 337px;
+  height: 246px;
+  object-fit: cover;
+}
+.find-your-best6 {
+  position: absolute;
+  top: 178px;
+  left: 392px;
+  font-size: var(--font-size-21xl);
+  text-transform: capitalize;
+  font-family: var(--font-redressed);
+  color: var(--color-gold-200);
+}
+.engineer-logo-and-icon-energy- {
+  position: absolute;
+  top: 345px;
+  left: 100px;
+  width: 159px;
+  height: 134px;
+  object-fit: cover;
+}
+.plan-elevetion {
+  position: absolute;
+  top: 382px;
+  left: 392px;
+  text-transform: capitalize;
+  font-family: var(--font-ruda);
+}
+.icon,
+.pngtree-gold-furniture-lamp-ch-icon {
+  position: absolute;
+  top: 551px;
+  left: 100px;
+  width: 159px;
+  height: 128px;
+  object-fit: cover;
+}
+.pngtree-gold-furniture-lamp-ch-icon {
+  top: 744px;
+  width: 163px;
+  height: 134px;
+}
+.design {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-dimgray-300);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-rambla);
+}

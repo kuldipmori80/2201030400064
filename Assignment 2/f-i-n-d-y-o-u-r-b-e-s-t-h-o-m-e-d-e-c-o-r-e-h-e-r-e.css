@@ -1,0 +1,10 @@
+.find-your-best2 {
+  width: 681px;
+  position: relative;
+  font-size: var(--font-size-21xl);
+  text-transform: capitalize;
+  font-family: var(--font-redressed);
+  color: var(--color-gold-200);
+  text-align: center;
+  display: inline-block;
+}

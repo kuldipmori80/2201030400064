@@ -1,0 +1,107 @@
+.services5 {
+  color: var(--white);
+  white-space: pre-wrap;
+}
+.home-services-feedback-container {
+  position: absolute;
+  top: 68px;
+  left: 260px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 1033px;
+  height: 43px;
+}
+.search-icon4 {
+  position: absolute;
+  top: 53px;
+  left: 1299px;
+  width: 69px;
+  height: 69px;
+  object-fit: cover;
+}
+.fornt-page-child {
+  position: absolute;
+  top: 107.5px;
+  left: 379.5px;
+  border-top: 5px solid var(--white);
+  box-sizing: border-box;
+  width: 82px;
+  height: 5px;
+}
+.user-menu-male8 {
+  position: absolute;
+  top: 46px;
+  left: 255px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.project5 {
+  position: absolute;
+  top: 68px;
+  left: 495px;
+  text-transform: capitalize;
+  color: var(--white);
+  cursor: pointer;
+}
+.home-decor2-4x-removebg-previe-icon6 {
+  position: absolute;
+  top: -25px;
+  left: -30px;
+  width: 337px;
+  height: 246px;
+  object-fit: cover;
+}
+.find-your-best5 {
+  position: absolute;
+  top: 174px;
+  left: 420px;
+  font-size: var(--font-size-21xl);
+  text-transform: capitalize;
+  font-family: var(--font-redressed);
+  color: var(--color-gold-200);
+}
+.de-1-icon1,
+.living-room-interior-design-di-icon,
+.start-simple-then-accent-livin-icon {
+  position: absolute;
+  top: 302px;
+  left: 33px;
+  width: 503px;
+  height: 334.7px;
+  object-fit: cover;
+}
+.de-1-icon1,
+.start-simple-then-accent-livin-icon {
+  left: 841px;
+  height: 338px;
+}
+.de-1-icon1 {
+  left: 487px;
+  width: 397px;
+  height: 628px;
+}
+.image-placeholder-icon6,
+.image-placeholder-icon7 {
+  position: absolute;
+  top: 653px;
+  left: 33px;
+  width: 503px;
+  height: 298px;
+  object-fit: cover;
+}
+.image-placeholder-icon7 {
+  left: 841px;
+}
+.fornt-page {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-sienna);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: #f6ed12;
+  font-family: var(--font-roboto);
+}

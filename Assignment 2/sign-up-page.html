@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./sign-up-page.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inria Serif:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,700;0,800;1,300&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Font Awesome 5 Free:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;900&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Port Lligat Sans:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@200;300;500;600;700;900&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Redressed:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Paytone One:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Rambla:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Ruda:wght@700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="sign-up-page">
+      <img class="bg-d-3" alt="" src="./public/bg-d-3@2x.png" />
+
+      <div class="background">
+        <b class="sign-up1">Sign Up</b>
+      </div>
+      <form class="input-frames">
+        <div class="enter-username-frame">
+          <input
+            class="enter-email-frame"
+            placeholder="Enter Your Username"
+            type="text"
+          />
+
+          <input
+            class="enter-email-frame1"
+            placeholder="Enter Your Email"
+            type="text"
+          />
+
+          <input
+            class="enter-email-frame2"
+            placeholder="Enter Your Phone Number"
+            type="text"
+          />
+
+          <input
+            class="enter-email-frame3"
+            placeholder="Enter Your Password"
+            type="text"
+          />
+        </div>
+        <div class="third-frame">
+          <button class="second-frame">
+            <div class="circle-button"></div>
+            <b class="sign-up2" id="signUpText1">Sign Up</b>
+          </button>
+        </div>
+        <div class="account-status-frames">
+          <div class="already-have-account-message">
+            <div class="already-have-an">Already have an account?</div>
+            <div class="parent-frame">
+              <div class="login2" id="loginText">Login</div>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+
+    <script>
+      var signUpText1 = document.getElementById("signUpText1");
+      if (signUpText1) {
+        signUpText1.addEventListener("click", function (e) {
+          window.location.href = "./login-page.html";
+        });
+      }
+      
+      var loginText = document.getElementById("loginText");
+      if (loginText) {
+        loginText.addEventListener("click", function (e) {
+          window.location.href = "./login-page.html";
+        });
+      }
+      </script>
+  </body>
+</html>

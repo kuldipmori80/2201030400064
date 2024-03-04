@@ -1,0 +1,173 @@
+.project1 {
+  white-space: pre-wrap;
+}
+.services2 {
+  color: var(--color-gold-200);
+}
+.feedback {
+  white-space: pre-wrap;
+}
+.project-services-feedback-container1 {
+  position: absolute;
+  top: 62px;
+  left: 311px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 1033px;
+  height: 43px;
+}
+.search-icon1,
+.user-menu-male2 {
+  position: absolute;
+  top: 44px;
+  left: 1309px;
+  width: 69px;
+  height: 69px;
+  object-fit: cover;
+}
+.user-menu-male2 {
+  top: 39px;
+  left: 291px;
+  width: 80px;
+  height: 80px;
+}
+.book-appointment-item {
+  position: absolute;
+  top: 102.5px;
+  left: 730.5px;
+  max-height: 100%;
+  width: 124px;
+}
+.user-menu-male3 {
+  position: absolute;
+  top: 38px;
+  left: -1381px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.combo-chart1 {
+  position: absolute;
+  top: 524px;
+  left: 307px;
+  width: 60px;
+  height: 57px;
+}
+.left-arrow-icon1 {
+  position: absolute;
+  top: 175px;
+  left: 14px;
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.home3 {
+  position: absolute;
+  top: 62px;
+  left: 417px;
+  text-transform: capitalize;
+}
+.home-decor2-4x-removebg-previe-icon1 {
+  position: absolute;
+  top: -31px;
+  left: -26px;
+  width: 337px;
+  height: 246px;
+  object-fit: cover;
+}
+.find-your-best1 {
+  position: absolute;
+  top: 138px;
+  left: 466px;
+  font-size: var(--font-size-21xl);
+  text-transform: capitalize;
+  font-family: var(--font-redressed);
+  color: var(--color-gold-200);
+}
+.book-appointment1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-dimgray-300);
+  width: 1440px;
+  height: 1024px;
+  overflow: hidden;
+}
+.ellipse-icon {
+  width: 100px;
+  border-radius: 50%;
+  height: 100px;
+  object-fit: cover;
+}
+.ellipse-icon,
+.john-thomsan {
+  position: relative;
+}
+.ellipse-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px 0;
+}
+.construction-menager {
+  position: relative;
+  font-size: var(--font-size-base);
+  color: var(--body-text);
+}
+.frame-parent2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px 0;
+}
+.is-a-long {
+  width: 396px;
+  position: relative;
+  color: var(--body-text);
+  text-align: center;
+  display: inline-block;
+}
+.frame-div,
+.frame-parent1,
+.frame-wrapper1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.frame-parent1 {
+  justify-content: flex-start;
+  gap: 24px 0;
+}
+.frame-div,
+.frame-wrapper1 {
+  border-radius: var(--br-5xs);
+}
+.frame-wrapper1 {
+  background-color: var(--color-gold-100);
+  border: 13px solid var(--color-whitesmoke-100);
+  justify-content: flex-start;
+  padding: var(--padding-13xl);
+}
+.frame-div {
+  position: absolute;
+  top: 395px;
+  left: 543px;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--font-size-2xl);
+  color: var(--heading-text);
+  font-family: var(--font-paytone-one);
+}
+.book-appointment-parent {
+  width: 100%;
+  position: relative;
+  height: 1024px;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--white);
+  font-family: var(--font-roboto);
+}

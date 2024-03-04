@@ -1,0 +1,126 @@
+.span1 {
+  white-space: pre-wrap;
+}
+.project3 {
+  color: var(--color-gold-100);
+}
+.services3 {
+  white-space: pre-wrap;
+}
+.project-services-feedback-container2 {
+  position: absolute;
+  top: 62px;
+  left: 311px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 1033px;
+  height: 43px;
+}
+.search-icon2,
+.user-menu-male4 {
+  position: absolute;
+  top: 44px;
+  left: 1309px;
+  width: 69px;
+  height: 69px;
+  object-fit: cover;
+}
+.user-menu-male4 {
+  top: 39px;
+  left: 291px;
+  width: 80px;
+  height: 80px;
+}
+.project-child {
+  position: absolute;
+  top: 102.5px;
+  left: 547.5px;
+  border-top: 5px solid var(--white);
+  box-sizing: border-box;
+  width: 129px;
+  height: 5px;
+}
+.user-menu-male5 {
+  position: absolute;
+  top: 38px;
+  left: -1381px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.combo-chart2 {
+  position: absolute;
+  top: 524px;
+  left: 307px;
+  width: 60px;
+  height: 57px;
+}
+.home4,
+.left-arrow-icon2 {
+  position: absolute;
+  cursor: pointer;
+}
+.left-arrow-icon2 {
+  top: 175px;
+  left: 14px;
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+}
+.home4 {
+  top: 62px;
+  left: 417px;
+  text-transform: capitalize;
+}
+.home-decor2-4x-removebg-previe-icon2 {
+  position: absolute;
+  top: -31px;
+  left: -26px;
+  width: 337px;
+  height: 246px;
+  object-fit: cover;
+}
+.find-your-best3 {
+  position: absolute;
+  top: 138px;
+  left: 466px;
+  font-size: var(--font-size-21xl);
+  text-transform: capitalize;
+  font-family: var(--font-redressed);
+  color: var(--color-gold-200);
+}
+.lets-change-your3 {
+  position: absolute;
+  top: 204px;
+  left: 197px;
+  font-size: var(--h1-size);
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-family: var(--text-button);
+  color: var(--color-lightslategray);
+  text-align: left;
+  display: inline-block;
+  width: 1112px;
+  height: 180px;
+}
+.before-after-room-makeover-159-icon1 {
+  position: absolute;
+  top: 384px;
+  left: 183px;
+  width: 1073px;
+  height: 640px;
+  object-fit: cover;
+}
+.project2 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-dimgray-300);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--white);
+  font-family: var(--font-roboto);
+}

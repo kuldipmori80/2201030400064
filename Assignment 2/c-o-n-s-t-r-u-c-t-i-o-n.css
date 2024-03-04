@@ -1,0 +1,110 @@
+.span4 {
+  white-space: pre-wrap;
+}
+.project8 {
+  color: var(--color-gold-100);
+}
+.services8 {
+  white-space: pre-wrap;
+}
+.project-services-feedback-container6 {
+  position: absolute;
+  top: 62px;
+  left: 311px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 1033px;
+  height: 43px;
+}
+.search-icon7,
+.user-menu-male12 {
+  position: absolute;
+  top: 44px;
+  left: 1309px;
+  width: 69px;
+  height: 69px;
+  object-fit: cover;
+}
+.user-menu-male12 {
+  top: 39px;
+  left: 291px;
+  width: 80px;
+  height: 80px;
+}
+.construction-child {
+  position: absolute;
+  top: 102.5px;
+  left: 547.5px;
+  border-top: 5px solid var(--white);
+  box-sizing: border-box;
+  width: 129px;
+  height: 5px;
+}
+.projects-for-construction {
+  position: absolute;
+  top: 271px;
+  left: 33px;
+  font-size: var(--font-size-21xl);
+  text-transform: capitalize;
+}
+.user-menu-male13 {
+  position: absolute;
+  top: 38px;
+  left: -1381px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.home8,
+.left-arrow-icon5 {
+  position: absolute;
+  cursor: pointer;
+}
+.left-arrow-icon5 {
+  top: 175px;
+  left: 14px;
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+}
+.home8 {
+  top: 62px;
+  left: 417px;
+  text-transform: capitalize;
+}
+.dbe91c9e1ff4post-tension-1-icon,
+.home-decor2-4x-removebg-previe-icon9 {
+  position: absolute;
+  top: -23px;
+  left: -26px;
+  width: 337px;
+  height: 246px;
+  object-fit: cover;
+}
+.dbe91c9e1ff4post-tension-1-icon {
+  top: 341px;
+  left: 503px;
+  border-radius: var(--br-33xl);
+  width: 937px;
+  height: 683px;
+}
+.slab-construction {
+  position: absolute;
+  top: 760.5px;
+  left: 80.1px;
+  text-transform: capitalize;
+  transform: rotate(-34.48deg);
+  transform-origin: 0 0;
+}
+.construction1 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-dimgray-300);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--white);
+  font-family: var(--font-roboto);
+}
